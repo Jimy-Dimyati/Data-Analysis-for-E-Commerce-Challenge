@@ -1,0 +1,89 @@
+Products
+Mana saja pernyataan yang benar tentang data Products
+a.Ada 4 kolom pada data produk
+b.Ada 1,145 baris pada data produk
+c.Ada 13 jenis kategori produk
+d.Ada 1 variabel yang mempunyai nilai NULL / kosong
+Jawaban (a, b)
+
+Orders
+Mana saja pernyataan yang benar tentang data Orders
+a.Ada 10 kolom / variabel pada data order
+b.Ada 74,874 baris pada data order
+c.Ada 3 variabel yang mempunyai nilai NULL / kosong
+d.Ada 3 variabel yang berisi data amount (rupiah)
+e.Ada 3 variabel yang berisi data tanggal
+Jawaban (a, b, d, e)
+
+Transaksi Bulanan
+Mana saja pernyataan yang benar tentang summary bulanan dari data transaksi bulanan berikut ini
+a.Ada 4,327 transaksi di bulan September 2019
+b.Ada 10,131 transaksi di bulan November 2019
+c.Ada 5,062 transaksi di bulan Januari 2020
+d.Ada 7,323 transaksi di bulan Maret 2020
+e.Ada 10,026 transaksi di bulan Mei 2020
+Jawaban (a, c, d, e)
+
+Status Transaksi
+Mana saja pernyataan yang benar tentang summary data transaksi berikut ini
+a.Ada 5,046 transaksi yang tidak dibayar
+b.Ada 5,046 transaksi yang sudah dibayar tapi tidak dikirim
+c.Ada total 9,790 transaksi yang tidak dikrim, baik sudah dibayar maupun belum
+d.Ada 4,744 transaksi yang dikirim pada hari yang sama dengan tangal dibayar
+Jawaban (a, c)
+
+Pengguna bertransaksi
+Mana saja pernyataan yang benar tentang summary data pengguna dan transaksi berikut ini
+a.Ada 17,877 total pengguna
+b.Ada 17,877 pengguna yang pernah bertransaksi sebagai pembeli
+c.Ada 69 pengguna yang pernah bertransaksi sebagai penjual
+d.Ada 69 pengguna yang pernah bertransaksi sebagai pembeli dan pernah sebagai penjual
+e.Ada 69 pengguna yang tidak pernah bertransaksi sebagai pembeli maupun penjual
+Jawaban (b, c, d)
+
+Top Buyer all time
+Dari daftar user_id dan nama pengguna berikut ini, mana saja yang merupakan 5 pembeli dengan dengan total pembelian terbesar (berdasarkan total harga barang setelah diskon)
+a.14411, Jaga Puspasari
+b.10977, Lukita Dabukke
+c.1251, Kartika Habibi
+d.15915,Sutan Agus Ardianto, S.Kom
+e.10355, Kartika Habibi
+Jawaban (a, d, e)
+
+Frequent Buyer
+Dari daftar nama pengguna berikut ini, mana saja pengguna yang tidak pernah menggunakan diskon ketika membeli barang dan merupakan 5 pembeli dengan transaksi terbanyak
+a.10977, Lukita Dabukke
+b.1251, Kartika Habibi
+c.12476, Yessi Wibisono
+d.696, Kayla Astuti
+e.5620, Cakrawangsa Habibi
+Jawaban ()
+
+Big Frequent Buyer 2020
+Dari daftar email pengguna berikut ini, mana saja pengguna yang bertransaksi setidaknya 1 kali setiap bulan di tahun 2020 dengan rata-rata total amount per transaksi lebih dari 1 Juta
+a.12854, ragustina@pd.gov
+b.11195, fnainggolan@hotmail.com
+c.10028, lputra@pd.gov
+d.3185, bzulkarnain@yahoo.com
+e.11998, dyulianti@gmail.com
+Jawaban (b, d, e)
+
+Domain email dari penjual
+Dari daftar domain berikut, manakah yang merupakan domain email dari penjual di DQLab Store.
+*domain adalah nama unik setelah tanda @, biasanya menggambarkan nama organisasi dan imbuhan internet standar (seperti .com, .co.id dan lainnya)
+a.cv.web.id
+b.cv.com
+c.cv.net.id
+d.pt.net.id
+e.ud.co.id
+Jawaban (a, d)
+
+Top 5 Product Desember 2019
+Dari daftar nama produk berikut ini, manakah yang merupakan top 5 produk yang dibeli di bulan desember 2019 berdasarkan total quantity
+a.QUEEN CEFA BRACELET LEATHER
+b.ANNA FAITH LEGGING GLOSSY
+c.Ajinomoto Bumbu Nasi Goreng Sajiku Ayam 20G
+d.EMBA SHORT PANT INATH TWO
+e.ANNA FAITH LEGGING GLOSSY
+Jawaban (a, b, e)
+
